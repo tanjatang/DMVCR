@@ -7,11 +7,13 @@
 If you find our work useful for you, please cite it as:
 ----
 ```html
-@article{tang2021cognitive,
+
+@inproceedings{tang2021,
   title={Cognitive Visual Commonsense Reasoning Using Dynamic Working Memory},
-  author={Tang, Xuejiao},
-  journal={arXiv preprint arXiv:2107.01671},
-  year={2021}
+  author={Tang, Xuejiao and Huang, Xin and Zhang, Wenbin and Child, Travers Barclay and Hu, Qiong and Liu, Zhen and Zhang, Ji},
+  booktitle={International Conference on Big Data Analytics and Knowledge Discovery},
+  year={2021},
+  organization={Springer}
 }
 
 ```
